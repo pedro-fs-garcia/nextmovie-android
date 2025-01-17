@@ -52,7 +52,7 @@ fun NextMovieTheme(
 
     MaterialTheme(
         colorScheme = colorScheme,
-        typography = Typography,
+        typography = RobotoTypography,
         content = content
     )
 }

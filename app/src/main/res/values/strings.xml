@@ -3,4 +3,6 @@
     <string name="welcome_message">Discover personalized movie recommendations easily</string>
     <string name="n_e_x_t_m_o_v_i_e">N E X T M O V I E</string>
     <string name="get_started">Get Started</string>
+    <string name="contribute_on_github">Contribute on GitHub</string>
+    <string name="about_us">About Us</string>
 </resources>
